@@ -50,3 +50,16 @@ Install the required Python package using:
 
 ```bash
 pip install mysql-connector-python
+```
+
+## Sample Data
+
+A sample student dataset is included in `sample_students.csv` to demonstrate the expected input format.
+
+## License
+
+© 2026 Sanjivan Sampath Venkatesan. All Rights Reserved.
+
+This project is publicly available for viewing and educational reference purposes only. Copying, modification, redistribution, republication, or commercial use is not permitted without prior written permission.
+
+See the [LICENSE](LICENSE) file for details.
